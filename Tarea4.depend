@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1416523543 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea4/Evaluador.cpp
+	"Evaluador.h"
+
+1416523052 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea4/Evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+
+1416523045 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/aDevoirs/Tarea4/main.cpp
+	"Evaluador.h"
+	<fstream>
+	<math.h>
+
+1416516688 source:f:\respaldo\disco d\johnny\johnny\ceutec\programacion iii\tareas\progra3tarea4-master\evaluador.cpp
+	"Evaluador.h"
+
+1416516688 f:\respaldo\disco d\johnny\johnny\ceutec\programacion iii\tareas\progra3tarea4-master\evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+
+1433347090 source:f:\respaldo\disco d\johnny\johnny\ceutec\programacion iii\tareas\progra3tarea4-master\main.cpp
+	"Evaluador.h"
+	<math.h>
+	<iostream>
+	<fstream>
+
